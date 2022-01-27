@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-//hola mundo
+//hola mund
 // primera prueba de android
 //tercer prueba
 
